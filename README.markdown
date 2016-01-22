@@ -1,4 +1,4 @@
-vim-gdl
+gdl.vim
 =======
 
 Vim support for GDL (Game Description Language).
